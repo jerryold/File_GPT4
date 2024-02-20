@@ -30,18 +30,22 @@ streamlit run File_chat.py
 
 ## Demo Screenshot
 1.PDF
+
 ![pdf](https://github.com/jerryold/File_GPT4/assets/12774427/372cfb87-1c6b-48fe-ac7a-beddb744accd)
 
 
 2.PPT
+
 ![image](https://github.com/jerryold/File_GPT4/assets/12774427/3b74ac6a-d055-49b1-8f82-af14c8179185)
 
 
-3.csv
+3.xlsx
+
 ![image](https://github.com/jerryold/File_GPT4/assets/12774427/fb3d69fb-272c-45d1-97db-49b2d3425de9)
 
 
 4.Word
+
 ![image](https://github.com/jerryold/File_GPT4/assets/12774427/47368137-6df4-46b8-9eb5-5cd37d37091e)
 
 ## Video Demo
