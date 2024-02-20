@@ -3,11 +3,13 @@
 
 ## Introduction
 This is a simple Streamlit application that uses the OpenAI GPT-4 API to generate responses to user input. The application also allows the user to upload a document and generate a summary of the document using the OpenAI API.
+## FileBot Architecture
+![圖片1](https://github.com/jerryold/File_GPT4/assets/12774427/f6b589fb-0595-4408-a414-70da5973110a)
 
 ## features
 
-- [x] Chat with GPT-4
-- [x] Summarize Document
+- [x] Chat with GPT-4 
+- [x] Summarize Document(PDF,Word,ppt,csv)
 - [x] Upload Document
 - [x] Answer Questions with File
 
@@ -27,5 +29,21 @@ streamlit run File_chat.py
 ```
 
 ## Demo Screenshot
+1.PDF
+![pdf](https://github.com/jerryold/File_GPT4/assets/12774427/372cfb87-1c6b-48fe-ac7a-beddb744accd)
+
+
+2.PPT
+![image](https://github.com/jerryold/File_GPT4/assets/12774427/3b74ac6a-d055-49b1-8f82-af14c8179185)
+
+
+3.csv
+![image](https://github.com/jerryold/File_GPT4/assets/12774427/fb3d69fb-272c-45d1-97db-49b2d3425de9)
+
+
+4.Word
+![image](https://github.com/jerryold/File_GPT4/assets/12774427/47368137-6df4-46b8-9eb5-5cd37d37091e)
 
 ## Video Demo
+https://github.com/jerryold/File_GPT4/assets/12774427/c02255b7-58d4-4008-9a6a-0258a3fa0408
+
